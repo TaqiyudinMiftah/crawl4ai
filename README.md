@@ -13,7 +13,7 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/unclecode?style=flat&logo=GitHub-Sponsors&label=Sponsors&color=pink)](https://github.com/sponsors/unclecode)
 
 ---
-#### 🚀 Crawl4AI Cloud API — Closed Beta (Launching Soon)
+#### 🚀 Crawl4AI Cloud API — Closed Beta 
 Reliable, large-scale web extraction, now built to be _**drastically more cost-effective**_ than any of the existing solutions.
 
 👉 **Apply [here](https://forms.gle/E9MyPaNXACnAMaqG7) for early access**  
